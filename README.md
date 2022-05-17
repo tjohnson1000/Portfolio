@@ -6,6 +6,7 @@
 <h2>👨‍💻💻 Network Security Projects:</h2>
 
 <h2>👨‍💻🐍 Programming with Python Projects:</h2>
+<h2>👨‍💻🐱‍👤 Hacking Projects:</h2>
 
 <h2>📃 Certifications:</h2>
 
