@@ -3,6 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
+<h2>👨‍💻 Network Security Projects:</h2>
+
+<h2>👨‍💻 Programming with Python Projects:</h2>
+
 <h2>📃 Certifications:</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/221067b5-77d3-421f-a8e2-98b337c8140f/public_url)
