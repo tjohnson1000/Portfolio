@@ -53,7 +53,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://http://linkedin.com/in/travis-johnson-98027523b/
+[linkedin]: https://www.linkedin.com/in/travis-w-johnson-98027523b/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
