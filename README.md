@@ -5,7 +5,7 @@
 - [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
 - [Build a Simple Rest API](https://www.youtube.com/watch?v=P9wz0Sted_I)
 - [Create a File Integrity Monitor](https://www.youtube.com/watch?v=P9wz0Sted_I)
-- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
+- [Setup Virtual Active Directory Environment in Azure](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
 - [Setup SIEM in Azure](https://www.youtube.com/watch?v=P9wz0Sted_I)
 <h2>👨‍💻💻 Network Security Projects:</h2>
 
