@@ -7,7 +7,10 @@
 - [Create a File Integrity Monitor](https://www.youtube.com/watch?v=P9wz0Sted_I)
 - [Setup Virtual Active Directory Environment in Azure](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
 - [Setup SIEM in Azure](https://www.youtube.com/watch?v=P9wz0Sted_I)
+
+
 <h2>👨‍💻💻 Network Security Projects:</h2>
+
 
 <h2>👨‍💻🐍 Programming with Python Projects:</h2>
 
@@ -50,7 +53,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://http://linkedin.com/in/travis-johnson-98027523b/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
