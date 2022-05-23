@@ -2,6 +2,7 @@
 
 <h2>👨‍💻🔐 Cybersecurity Projects:</h2>
 
+- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
 
 <h2>👨‍💻💻 Network Security Projects:</h2>
 
