@@ -3,11 +3,28 @@
 <h2>👨‍💻🔐 Cybersecurity Projects:</h2>
 
 - [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
-
+- [Build a Simple Rest API](https://www.youtube.com/watch?v=P9wz0Sted_I)
+- [Create a File Integrity Monitor](https://www.youtube.com/watch?v=P9wz0Sted_I)
+- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagemen
+- [Setup SIEM in Azure](https://www.youtube.com/watch?v=P9wz0Sted_I)
 <h2>👨‍💻💻 Network Security Projects:</h2>
 
 <h2>👨‍💻🐍 Programming with Python Projects:</h2>
+
+- [Create a Keylogger in Python with Spyware Features](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
+- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
+- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
+- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
+- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
+
+
 <h2>👨‍💻🐱‍👤 Hacking Projects:</h2>
+
+- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
+- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
+- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
+- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
+- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
 
 <h2>📃 Certifications:</h2>
 
