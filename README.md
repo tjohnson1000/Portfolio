@@ -10,7 +10,11 @@
 
 
 <h2>👨‍💻💻 Network Security Projects:</h2>
-
+- [IP SEC VPN DMVPN Hub and Spoke IKEv2](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
+- [ASAv HA Active-Standby IPSEC VTI](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
+- [Cisco dot1x ISE 3.0 Lab](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
+- [Cisco Firepower DUO 2FA AnyConnect RA VPN Lab](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
+- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
 
 <h2>👨‍💻🐍 Programming with Python Projects:</h2>
 
