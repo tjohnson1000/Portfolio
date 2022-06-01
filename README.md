@@ -5,7 +5,7 @@
 - [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
 - [Build a Simple Rest API](https://www.youtube.com/watch?v=P9wz0Sted_I)
 - [Create a File Integrity Monitor](https://www.youtube.com/watch?v=P9wz0Sted_I)
-- [Setup Virtual Active Directory Environment in Azure](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
+- [Active Directory Environment Home Lab](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
 - [Setup SIEM in Azure](https://www.youtube.com/watch?v=P9wz0Sted_I)
 
 
@@ -53,7 +53,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://www.linkedin.com/in/travis-w-johnson-98027523b/
+[linkedin]: https://www.linkedin.com/in/travwjohnson/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
