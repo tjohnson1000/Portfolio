@@ -6,7 +6,7 @@
 - [Build a Simple Rest API](https://www.youtube.com/watch?v=P9wz0Sted_I)
 - [Create a File Integrity Monitor](https://www.youtube.com/watch?v=P9wz0Sted_I)
 - [Active Directory Environment Home Lab](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
-- [Setup SIEM in Azure](https://www.youtube.com/watch?v=P9wz0Sted_I)
+- [Setup SIEM in Azure](https://github.com/cybertrav/Azure-Sentinel-Lab)
 
 
 <h2>👨‍💻💻 Network Security Projects:</h2>
