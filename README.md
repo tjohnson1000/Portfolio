@@ -40,10 +40,12 @@
 - [Cisco Certified Network Associate](https://www.credly.com/badges/f65f5150-c011-4e0e-9fc3-9c0b3409ea9f/public_url)
 - [Cisco Certified Network Associate Security](https://www.credly.com/badges/b7cd30a2-760f-49ce-b2ff-6d30f67ba10c/public_url)
 - [Cisco Certified CyberOps Associate](https://www.credly.com/badges/158e46d7-bf70-4529-8b9a-cd3cfbf20d39/public_url)
-- [Cisco Certified Specialist- ISE](https://www.credly.com/badges/76ec3e24-b033-4eb5-a718-1d94ae903c97/public_url)
+- [Cisco Certified Specialist- Security Identity Management Implementation](https://www.credly.com/badges/76ec3e24-b033-4eb5-a718-1d94ae903c97/public_url)
 - [Cisco Certified Network Professional Security](https://www.credly.com/badges/9ce0ccec-8a85-46a0-8618-cfbb740d7ac9/public_url)
 - [Certified Associate in Python Programming](https://www.credly.com/badges/c9c148ba-371a-4b61-9061-7089d77ba79a/public_url)
 - [EC-Council Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=YGbAiRll0Av6gwl01Eh6OWvyhgqmueYTvru6O4MEf48=)
+- [Certified Scrum Master](https://bcert.me/sbqwcrzez)
+- [Certified Scrum Product Owner](https://bcert.me/sbswmcywz)
 
 <h2>📺 Popular YouTube Videos:</h2>
 
