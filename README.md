@@ -1,4 +1,15 @@
-<h1>Hi, I'm Travis! </h1>
+<h1>Hi, I'm Travis! - Information Security Engineer
+
+Welcome to my GitHub portfolio! I specialize in network security and cybersecurity solutions with a focus on Palo Alto, Cisco ASA, Cisco FTD, and Cisco ISE. Below, you'll find an overview of my skills, technologies, and some of the projects that I've worked on.
+ </h1>
+
+ ## Skills & Technologies
+
+- **Network Security**: Cisco Identity Services Engine (ISE), Cisco ASA, Palo Alto Firewall, Cisco Firepower Threat Defense (FTD)
+- **Security Tools**: Mixmode (SIEM), Tenable (Vulnerability Scanning), Syxsense (Endpoint Security)
+- **Automation & Scripting**: Python, Bash
+- **Networking**: Cisco routers and switches, Firewalls, VPNs, IPS/IDS
+- **Platforms**: ServiceNow Integration, SOC (Security Operations Center) Management
 
 <h2>👨‍💻🔐 Cybersecurity Projects:</h2>
 
