@@ -1,6 +1,6 @@
 <h1>Hi, I'm Travis! - Information Security Engineer
 
-Welcome to my GitHub portfolio! I specialize in network security and cybersecurity solutions with a focus on Palo Alto, Cisco ASA, Cisco FTD, and Cisco ISE. Below, you'll find an overview of my skills, technologies, and some of the projects that I've worked on.
+Welcome to my GitHub portfolio! I specialize in network security and cybersecurity solutions with a focus on Palo Alto firewalls, Cisco firewalls, Cisco ISE, SIEMs, and Network Automation. Below, you'll find an overview of my skills, technologies, and some of the projects that I've worked on.
  </h1>
 
  ## Skills & Technologies
@@ -68,9 +68,8 @@ Welcome to my GitHub portfolio! I specialize in network security and cybersecuri
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[youtube]: 
+[instagram]: 
 [linkedin]: https://www.linkedin.com/in/travwjohnson/
 
 <!--
