@@ -5,7 +5,7 @@ Welcome to my GitHub portfolio! I specialize in network security and cybersecuri
 
  ## Skills & Technologies
 
-- **Network Security**: Cisco Firewalls, Palo Alto Firewalls, Cisco ISE
+- **Network Security**: Cisco Firewalls, Palo Alto Firewalls (NGFW), Cisco ISE
 - **Security Tools**: Splunk (SIEM), Tenable (Vulnerability Scanning), Wireshark
 - **Automation & Scripting**: Python, Bash, Powershell
 - **Networking**: Cisco routers and switches, VPNs, IPS/IDS
