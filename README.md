@@ -14,36 +14,31 @@ Welcome to my GitHub portfolio! I specialize in network security and cybersecuri
 <h2>👨‍💻🔐 Cybersecurity Projects:</h2>
 
 - [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
-- [Build a Simple Rest API](https://www.youtube.com/watch?v=P9wz0Sted_I)
-- [Create a File Integrity Monitor](https://www.youtube.com/watch?v=P9wz0Sted_I)
+- [Build a Simple Rest API]()
+- [Create a File Integrity Monitor]()
 - [Active Directory Environment Home Lab](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
 - [Setup SIEM in Azure](https://github.com/cybertrav/Azure-Sentinel-Lab)
 
 
 <h2>👨‍💻💻 Network Security Projects:</h2>
 
-- [IP SEC VPN DMVPN Hub and Spoke IKEv2](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
-- [ASAv HA Active-Standby IPSEC VTI](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
-- [Cisco dot1x ISE 3.0 Lab](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
-- [Cisco Firepower DUO 2FA AnyConnect RA VPN Lab](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
+- [IP SEC VPN DMVPN Hub and Spoke IKEv2]()
+- [ASAv HA Active-Standby IPSEC VTI]()
+- [Cisco dot1x ISE 3.0 Lab]()
+- [Cisco Firepower DUO 2FA AnyConnect RA VPN Lab]()
 - [Palo Alto Home Lab]()
 
 <h2>👨‍💻🐍 Programming with Python Projects:</h2>
 
-- [Create a Keylogger in Python with Spyware Features](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
-- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
-- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
-- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
-- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
+- [Create a Keylogger in Python with Spyware Features]()
+- [Vulnerability Management with Nessus Essentials]()
+- [Vulnerability Management with Nessus Essentials]()
+- [Vulnerability Management with Nessus Essentials]()
+- [Vulnerability Management with Nessus Essentials]()
 
 
 <h2>👨‍💻🐱‍👤 Hacking Projects:</h2>
 
-- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
-- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
-- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
-- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
-- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
 
 <h2>📃 Certifications:</h2>
 
