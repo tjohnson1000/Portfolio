@@ -26,7 +26,7 @@ Welcome to my GitHub portfolio! I specialize in network security and cybersecuri
 - [ASAv HA Active-Standby IPSEC VTI](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
 - [Cisco dot1x ISE 3.0 Lab](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
 - [Cisco Firepower DUO 2FA AnyConnect RA VPN Lab](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
-- [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
+- [Palo Alto Home Lab]()
 
 <h2>👨‍💻🐍 Programming with Python Projects:</h2>
 
