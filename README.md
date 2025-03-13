@@ -31,10 +31,6 @@ Welcome to my GitHub portfolio! I specialize in network security and cybersecuri
 <h2>👨‍💻🐍 Programming with Python Projects:</h2>
 
 - [Create a Keylogger in Python with Spyware Features]()
-- [Vulnerability Management with Nessus Essentials]()
-- [Vulnerability Management with Nessus Essentials]()
-- [Vulnerability Management with Nessus Essentials]()
-- [Vulnerability Management with Nessus Essentials]()
 
 
 <h2>👨‍💻🐱‍👤 Hacking Projects:</h2>
