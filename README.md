@@ -16,7 +16,7 @@ Welcome to my GitHub portfolio! I specialize in network security and cybersecuri
 <h2>👨‍💻💻 Network Security Projects:</h2>
 
 - [Cisco IPSec IKEv1 S2S VPN](https://github.com/tjohnson1000/Cisco-IPSEC-IKEv1-Site-to-Site-VPN)
-- [Cisco IPSec IKEv2 S2S VPN]()
+- [Cisco IPSec IKEv2 S2S VPN](https://github.com/tjohnson1000/Cisco-IPSEC-IKEv2-Site-to-Site-VPN)
 - [ASAv HA Active-Standby IPSEC VTI]()
 - [Cisco dot1x ISE 3.0 Lab]()
 - [Cisco Firepower DUO 2FA AnyConnect RA VPN Lab]()
