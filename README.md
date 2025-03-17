@@ -27,6 +27,8 @@ Welcome to my GitHub portfolio! I specialize in network security and cybersecuri
 - [Cisco dot1x ISE 3.0 Lab]()
 - [Cisco Firepower DUO 2FA AnyConnect RA VPN Lab]()
 - [Palo Alto Home Lab]()
+- [Cisco IPSec IKEv1 S2S VPN]
+- [Cisco IPSec IKEv2 S2S VPN]
 
 <h2>👨‍💻🐍 Programming with Python Projects:</h2>
 
