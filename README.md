@@ -11,6 +11,22 @@ Welcome to my GitHub portfolio! I specialize in network security and cybersecuri
 - **Networking**: Cisco routers and switches, VPNs, IPS/IDS
 - **Platforms**: ServiceNow, SOC (Security Operations Center) Management
 
+<h2>👨‍💻Networking Projects</h2>
+
+<h2>👨‍💻💻 Network Security Projects:</h2>
+
+- [Cisco IPSec IKEv1 S2S VPN](https://github.com/tjohnson1000/Cisco-IPSEC-IKEv1-Site-to-Site-VPN)
+- [Cisco IPSec IKEv2 S2S VPN]
+- [ASAv HA Active-Standby IPSEC VTI]()
+- [Cisco dot1x ISE 3.0 Lab]()
+- [Cisco Firepower DUO 2FA AnyConnect RA VPN Lab]()
+- [Palo Alto Home Lab]()
+- [Network Security Management with Panorama]()
+
+<h2>👨‍💻🐍 Programming with Python Projects:</h2>
+
+- [Create a Keylogger in Python with Spyware Features]()
+
 <h2>👨‍💻🔐 Cybersecurity Projects:</h2>
 
 - [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
@@ -18,24 +34,9 @@ Welcome to my GitHub portfolio! I specialize in network security and cybersecuri
 - [Create a File Integrity Monitor]()
 - [Active Directory Environment Home Lab](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
 - [Setup SIEM in Azure](https://github.com/cybertrav/Azure-Sentinel-Lab)
+- [Setup Splunk/Splunk Forwarder]()
 
-
-<h2>👨‍💻💻 Network Security Projects:</h2>
-
-- [IP SEC VPN DMVPN Hub and Spoke IKEv2]()
-- [ASAv HA Active-Standby IPSEC VTI]()
-- [Cisco dot1x ISE 3.0 Lab]()
-- [Cisco Firepower DUO 2FA AnyConnect RA VPN Lab]()
-- [Palo Alto Home Lab]()
-- [Cisco IPSec IKEv1 S2S VPN](https://github.com/tjohnson1000/Cisco-IPSEC-IKEv1-Site-to-Site-VPN)
-- [Cisco IPSec IKEv2 S2S VPN]
-
-<h2>👨‍💻🐍 Programming with Python Projects:</h2>
-
-- [Create a Keylogger in Python with Spyware Features]()
-
-
-<h2>👨‍💻🐱‍👤 Hacking Projects:</h2>
+<h2>🤖 Automation Projects:</h2>
 
 
 <h2>📃 Certifications:</h2>
