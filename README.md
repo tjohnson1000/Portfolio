@@ -19,7 +19,7 @@ Welcome to my GitHub portfolio! I specialize in network security and cybersecuri
 - [Cisco IPSec IKEv2 S2S VPN](https://github.com/tjohnson1000/Cisco-IPSEC-IKEv2-Site-to-Site-VPN)
 - [Cisco Security Firepower NGFW Threat Defense Policies](https://github.com/tjohnson1000/Cisco-Firepower-Policies-Lab)
 - [Cisco dot1x ISE 3.0 Lab](https://github.com/tjohnson1000/Cisco-Security-ISE-dot1x-and-mab)
-- [Palo Alto Home Lab ML-Powered Next-Generation Firewall (NGFW)]()
+- [Palo Alto Home Lab ML-Powered Next-Generation Firewall (NGFW)](https://github.com/tjohnson1000/Palo-Alto-ML-Powered-Next-Generation-Firewall-NGFW-/tree/main)
 - [Network Security Management with Panorama]()
 
 <h2>👨‍💻🐍 Programming with Python Projects:</h2>
