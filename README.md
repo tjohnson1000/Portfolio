@@ -1,4 +1,4 @@
-<h1>Hi, I'm Travis! - Information Security Engineer
+<h1>Hi, I'm Travis! - Security Engineer
 
 Welcome to my GitHub portfolio! I specialize in network security and cybersecurity solutions with a focus on Palo Alto firewalls, Cisco firewalls, Cisco ISE, SIEMs, and Network Automation. 
  </h1>
@@ -6,12 +6,13 @@ Welcome to my GitHub portfolio! I specialize in network security and cybersecuri
  ## Skills & Technologies
 
 - **Network Security**: Cisco Firewalls, Palo Alto Firewalls (NGFW), Cisco ISE, IPSec VPNs
+- **Cloud Security**: AWS, Azure
 - **Security Tools**: Splunk (SIEM), Tenable (Vulnerability Scanning), Wireshark
 - **Automation & Scripting**: Python, Bash, Powershell
 - **Networking**: Cisco routers and switches, VPNs, IPS/IDS
 - **Platforms**: ServiceNow, SOC (Security Operations Center) Management
 
-<h2>👨‍💻Networking Projects</h2>
+<h2>👨‍💻Networking Projects:</h2>
 
 <h2>👨‍💻💻 Network Security Projects:</h2>
 
@@ -21,6 +22,8 @@ Welcome to my GitHub portfolio! I specialize in network security and cybersecuri
 - [Cisco dot1x ISE 3.0 Lab](https://github.com/tjohnson1000/Cisco-Security-ISE-dot1x-and-mab)
 - [Palo Alto Home Lab ML-Powered Next-Generation Firewall (NGFW)](https://github.com/tjohnson1000/Palo-Alto-ML-Powered-Next-Generation-Firewall-NGFW-/tree/main)
 - [Network Security Management with Panorama](https://github.com/tjohnson1000/Network-Security-Management-with-Panorama)
+
+<h2>👨‍💻🌩 Cloud Security Projects:</h2>
 
 <h2>👨‍💻🐍 Programming with Python Projects:</h2>
 
@@ -32,8 +35,7 @@ Welcome to my GitHub portfolio! I specialize in network security and cybersecuri
 - [Build a Simple Rest API]()
 - [Create a File Integrity Monitor]()
 - [Active Directory Environment Home Lab](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
-- [Setup SIEM in Azure](https://github.com/cybertrav/Azure-Sentinel-Lab)
-- [Setup Splunk/Splunk Forwarder]()
+- [Splunk/Splunk Forwarder Setup]()
 
 <h2>🤖 Automation Projects:</h2>
 
