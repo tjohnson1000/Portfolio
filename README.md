@@ -22,7 +22,8 @@ Welcome to my GitHub portfolio! I specialize in network security and cybersecuri
 - [Cisco dot1x ISE 3.0 Lab](https://github.com/tjohnson1000/Cisco-Security-ISE-dot1x-and-mab)
 - [Palo Alto Home Lab ML-Powered Next-Generation Firewall (NGFW)](https://github.com/tjohnson1000/Palo-Alto-ML-Powered-Next-Generation-Firewall-NGFW-/tree/main)
 - [Network Security Management with Panorama](https://github.com/tjohnson1000/Network-Security-Management-with-Panorama)
-- [Amazon Web Services - AWS](https://github.com/tjohnson1000/Amazon-Web-Services-AWS-)
+- [Cloud NGFW for AWS](https://github.com/tjohnson1000/Amazon-Web-Services-AWS-)
+- [Cloud NGFW for Azure](https://github.com/tjohnson1000/Cloud-NGFW-for-Azure)
   
 <h2>👨‍💻🐍 Programming with Python Projects:</h2>
 
