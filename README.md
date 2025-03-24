@@ -1,6 +1,6 @@
 <h1>Hi, I'm Travis! - Security Engineer
 
-Welcome to my GitHub portfolio! I specialize in network security and cybersecurity solutions with a focus on Palo Alto firewalls, Cisco firewalls, Cisco ISE, SIEMs, and Network Automation. 
+Welcome to my GitHub portfolio! I specialize in Nex-Gen Firewalls and cybersecurity solutions with a focus on Palo Alto firewalls, Cisco firewalls, Cisco ISE, SIEMs, and Network Automation. 
  </h1>
 
  ## Skills & Technologies
