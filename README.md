@@ -40,7 +40,7 @@ Welcome to my GitHub portfolio! I specialize in Nex-Gen Firewalls, Cloud Securit
 - [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
 - [Build a Simple Rest API]()
 - [Create a File Integrity Monitor]()
-- [Active Directory Environment Home Lab](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
+- [Active Directory Environment Home Lab]()
 - [Splunk/Splunk Forwarder Setup]()
 
 <h2>🤖 Automation Projects:</h2>
@@ -65,13 +65,6 @@ Welcome to my GitHub portfolio! I specialize in Nex-Gen Firewalls, Cloud Securit
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[youtube]: 
-[instagram]: 
 [linkedin]: https://www.linkedin.com/in/travwjohnson/
 
 <!--
