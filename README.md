@@ -18,6 +18,7 @@ Welcome to my GitHub portfolio! I specialize in Nex-Gen Firewalls, Cloud Securit
 - [CCNP Multi-Area OSPFv2 Lab](https://github.com/tjohnson1000/CCNP-Multi-Area-OSPFv2-Lab)
 - [CCNA/CCNP Advanced Switching STP/RSTP Lab](https://github.com/tjohnson1000/Cisco-STP-RSTP-Advanced-Switching-Lab)
 - [CCNP Switching VTP Lab](https://github.com/tjohnson1000/Cisco-VTPv2-VTPv3-Switching-Lab)
+- [CCNP Switching Private VLANS Lab](https://github.com/tjohnson1000/-Cisco-Private-VLAN-PVLAN-Switching-Lab)
 
 <h2>👨‍💻💻🌩 Network/Cloud Security Projects:</h2>
 
