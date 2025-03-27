@@ -35,7 +35,7 @@ Welcome to my GitHub portfolio! I specialize in Nex-Gen Firewalls, Cloud Securit
 
 - [Python Basics: Hello & Cat Collector](https://github.com/tjohnson1000/Python-Basics-Hello-Cat-Collector)
 - [Python Birthday Lookup & Update Tool](https://github.com/tjohnson1000/Python-Birthday-Lookup-Update-Tool)
-- [https://github.com/tjohnson1000/Python-Phone-Number-Format-Checker](https://github.com/tjohnson1000/Python-Phone-Number-Format-Checker)
+- [Python Phone Number Format Checker](https://github.com/tjohnson1000/Python-Phone-Number-Format-Checker)
 - 
 
 <h2>👨‍💻🔐 Cybersecurity Projects:</h2>
