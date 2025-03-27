@@ -41,7 +41,7 @@ Welcome to my GitHub portfolio! I specialize in Nex-Gen Firewalls, Cloud Securit
 <h2>👨‍💻🔐 Cybersecurity Projects:</h2>
 
 - [Vulnerability Management with Nessus Essentials](https://github.com/cybertrav/VulnerabilityManagement-NessusEssentialsLab)
-- [Build a Simple Rest API]()
+- [Build a Simple Rest API](https://github.com/tjohnson1000/Node.js-Medical-Records-REST-API-Express-Tutorial-)
 - [Create a File Integrity Monitor]()
 - [Active Directory Environment Home Lab]()
 - [Splunk/Splunk Forwarder Setup]()
