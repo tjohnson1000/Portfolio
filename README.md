@@ -37,7 +37,6 @@ Welcome to my GitHub portfolio! I specialize in Nex-Gen Firewalls, Cloud Securit
 - [Python Birthday Lookup & Update Tool](https://github.com/tjohnson1000/Python-Birthday-Lookup-Update-Tool)
 - [Python Phone Number Format Checker](https://github.com/tjohnson1000/Python-Phone-Number-Format-Checker)
 - [Python Text-Based Tic-Tac-Toe Game](https://github.com/tjohnson1000/Python-Text-Based-Tic-Tac-Toe-Game)
-- 
 
 <h2>👨‍💻🔐 Cybersecurity Projects:</h2>
 
