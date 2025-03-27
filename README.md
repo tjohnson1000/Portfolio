@@ -33,7 +33,7 @@ Welcome to my GitHub portfolio! I specialize in Nex-Gen Firewalls, Cloud Securit
   
 <h2>👨‍💻🐍 Programming with Python Projects:</h2>
 
-- [Create a Keylogger in Python with Spyware Features]()
+- [Python Basics: Hello & Cat Collector]()
 
 <h2>👨‍💻🔐 Cybersecurity Projects:</h2>
 
