@@ -34,6 +34,7 @@ Welcome to my GitHub portfolio! I specialize in Nex-Gen Firewalls, Cloud Securit
 <h2>👨‍💻🐍 Programming with Python Projects:</h2>
 
 - [Python Basics: Hello & Cat Collector](https://github.com/tjohnson1000/Python-Basics-Hello-Cat-Collector)
+- [Python Birthday Lookup & Update Tool](https://github.com/tjohnson1000/Python-Birthday-Lookup-Update-Tool)
 
 <h2>👨‍💻🔐 Cybersecurity Projects:</h2>
 
