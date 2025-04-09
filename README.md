@@ -48,6 +48,8 @@ Welcome to my GitHub portfolio! I specialize in Nex-Gen Firewalls, Cloud Securit
 
 <h2>🤖 Automation Projects:</h2>
 
+- [Macro Excel Cleaner](https://github.com/tjohnson1000/Excel-Firewall-Rule-Cleaner-VBA-Macro)
+
 
 <h2>📃 Certifications:</h2>
 
