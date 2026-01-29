@@ -1,6 +1,6 @@
 <h1>Hi, I'm Travis! - Security Engineer
 
-Welcome to my GitHub portfolio! I specialize in Nex-Gen Firewalls, Cloud Security, and Cybersecurity solutions with a focus on Palo Alto firewalls, Cisco firewalls, Cisco ISE, SIEMs, and Network Automation. 
+Welcome to my GitHub portfolio! I specialize in Next-Gen Firewalls, Cloud Security, and Cybersecurity solutions with a focus on Palo Alto firewalls, Cisco firewalls, Cisco ISE, SIEMs, and Network Automation. 
  </h1>
 
  ## Skills & Technologies
@@ -66,6 +66,8 @@ Welcome to my GitHub portfolio! I specialize in Nex-Gen Firewalls, Cloud Securit
 - [Palo Alto Certified Network Security Administrator](https://www.credly.com/badges/0e03e1b5-1bc2-479f-a12d-57586b1f9eaa/public_url)
 
 <h2>📺 Popular YouTube Videos:</h2>
+
+[YouTube]: https://www.youtube.com/@PolicyBeforePackets2030/videos
 
 
 <h2> 🤳 Connect with me:</h2>
